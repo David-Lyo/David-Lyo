@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://David-Lyo.github.io/">
-    <img src="Assets/David.gif"/>
-  </a>
+  <img align="center" src="Assets/David.png" width="440"/>
+  <img align="center" src="Assets/Shape.gif" width="200"/>
 </div>

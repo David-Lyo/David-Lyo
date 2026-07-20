@@ -7,10 +7,8 @@
 > [<img src="Assets/Terminal-Web.svg" width="500" height="16"/>](https://github.com/David-Lyo)
   [<img src="Assets/Terminal-Backend.svg" width="500" height="16"/>](https://github.com/David-Lyo)
   [<img src="Assets/Terminal-Nodejs.svg" width="500" height="16"/>](https://github.com/David-Lyo)
-  [<img src="Assets/Projects/Terminal-nodejs-test.svg" width="500" height="16"/>](https://github.com/David-Lyo/nodejs-test)
 >
 > [<img src="Assets/Terminal-Frontend.svg" width="500" height="16"/>](https://github.com/David-Lyo)
   [<img src="Assets/Terminal-React.svg" width="500" height="16"/>](https://github.com/David-Lyo)
-  [<img src="Assets/Projects/Terminal-nodejs-test.svg" width="500" height="16"/>](https://github.com/David-Lyo/nodejs-test)
 >
 > [<img src="Assets/Terminal-list-all.svg" width="500" height="16"/>](https://github.com/David-Lyo?tab=repositories)
